@@ -1,6 +1,15 @@
 # 💫 About Me:
-¡Hola a todos! Soy Alejandro, un apasionado programador de 30 años proveniente de México. Mi viaje en el mundo de la programación comenzó con una fascinación por la creación de soluciones innovadoras y eficientes.<br><br>Mi mantra es aprender, crecer y destacar. Estoy constantemente buscando oportunidades para mejorar mis habilidades y enfrentar desafíos que me permitan sobresalir en el mundo del desarrollo de software.<br><br>Mi experiencia abarca HTML, CSS, JavaScript, Tailwind, React.  Estoy ansioso por aplicar mis conocimientos en proyectos apasionantes. Mi enfoque no solo se limita a escribir código eficiente, sino a colaborar con equipos talentosos y contribuir a soluciones que realmente marquen la diferencia.<br><br>Además de mi habilidad técnica, tengo una mentalidad proactiva y una pasión por la resolución de problemas. Creo firmemente en la importancia de aprender de manera continua y de adaptarse a las tecnologías emergentes.<br><br>Estoy emocionado por la oportunidad de participar en proyectos innovadores y desafiantes. Si buscas a alguien comprometido, creativo y dispuesto a aportar su experiencia a tu equipo, ¡estaré encantado de ser parte de tu visión!<br><br>Gracias por visitar mi perfil, y estoy emocionado por lo que el futuro nos depara. ¡Hablemos sobre cómo puedo contribuir a tu próximo proyecto!
+Hello everyone! I'm Alejandro, a passionate 30-year-old programmer from Mexico. My journey in the world of programming began with a fascination for creating innovative and efficient solutions.
 
+My mantra is to learn, grow, and stand out. I am constantly seeking opportunities to improve my skills and face challenges that allow me to excel in the world of software development.
+
+My experience includes HTML, CSS, JavaScript, Tailwind, React. I am eager to apply my knowledge to exciting projects. My focus goes beyond writing efficient code; I thrive on collaborating with talented teams and contributing to solutions that truly make a difference.
+
+In addition to my technical ability, I have a proactive mindset and a passion for problem-solving. I firmly believe in the importance of continuous learning and adapting to emerging technologies.
+
+I am excited about the opportunity to participate in innovative and challenging projects. If you're looking for someone committed, creative, and ready to contribute their expertise to your team, I would be delighted to be part of your vision!
+
+Thank you for visiting my profile, and I am excited about what the future holds. Let's discuss how I can contribute to your next project!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/serranoh93) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/serranoh93) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Serranoh93) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@a.serrano8657) 
