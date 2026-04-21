@@ -1,9 +1,9 @@
 # 💫 About Me:
-Hello everyone! I'm Alejandro, a passionate 30-year-old programmer from Mexico. My journey in the world of programming began with a fascination for creating innovative and efficient solutions.
+Hello everyone! I'm Alejandro, a passionate 32-year-old programmer from Mexico. My journey in the world of programming began with a fascination for creating innovative and efficient solutions.
 
 My mantra is to learn, grow, and stand out. I am constantly seeking opportunities to improve my skills and face challenges that allow me to excel in the world of software development.
 
-My experience includes HTML, CSS, JavaScript, Tailwind, React. I am eager to apply my knowledge to exciting projects. My focus goes beyond writing efficient code; I thrive on collaborating with talented teams and contributing to solutions that truly make a difference.
+My experience includes HTML, CSS, JavaScript, Tailwind, React, Next,js, PostgresSQL. I am eager to apply my knowledge to exciting projects. My focus goes beyond writing efficient code; I thrive on collaborating with talented teams and contributing to solutions that truly make a difference.
 
 In addition to my technical ability, I have a proactive mindset and a passion for problem-solving. I firmly believe in the importance of continuous learning and adapting to emerging technologies.
 
